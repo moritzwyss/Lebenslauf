@@ -1,0 +1,17 @@
+.fett {
+    color:rgb(128, 0, 0);
+    front-wheight: bolder;
+    font-family: helvetica, arial, sans serif;
+    
+}
+header {background-color: red;
+    color: #ffffff;
+    text-align: center ;
+}
+body{
+    background-color: black;
+}
+li {
+    color: white;
+    font-family:  Arial, Helvetica, sans-serif;
+}
